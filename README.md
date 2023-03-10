@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 estudando PHP
+- 🔭 Hoje estou estutando
+- 🌱 estudando Análise de sistemas
 - 📫 Contate-me no email: vitorhugoleme2010@hotmail.com
 
 <div>
