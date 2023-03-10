@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou estutando
-- 🌱 estudando Análise de sistemas
+- 🌱 estudando analise e desenvolvimento de sistemas
 - 📫 Contate-me no email: vitorhugoleme2010@hotmail.com
 
 <div>
