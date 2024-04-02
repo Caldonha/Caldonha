@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou estutando
-- 🌱 Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando: Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: vitorhugoleme2010@hotmail.com
 
 <div>
@@ -17,6 +17,7 @@
     <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img height="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
 </p>
