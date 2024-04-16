@@ -1,10 +1,12 @@
-### 👋Olá, bem vindo(a) ao meu perfil !!
+### 👋 Olá, bem-vindo(a) ao meu perfil no GitHub!
+
+Meu nome é Vitor Hugo e sou apaixonado por Front-End. Estou sempre procurando aprender e aplicar as melhores práticas e tecnologias para criar interfaces que ofereçam ótima experiência ao usuário.
+
+- 🔭 Atualmente estou focado em estudar e criar projetos envolvendo HTML, CSS e JavaScript.
+- 🌱 Cursando faculdade em Análise e Desenvolvimento de Sistemas, aprofundando conhecimentos práticos e teóricos na área.
+- 📫 Contate-me no email: [vitorhugoleme2010@hotmail.com](mailto:vitorhugoleme2010@hotmail.com)
 
 
-
-- 🔭 Hoje estou estutando
-- 🌱 Estudando: Análise e Desenvolvimento de Sistemas
-- 📫 Contate-me no email: vitorhugoleme2010@hotmail.com
 
 <div>
   <a href="https://github.com/Caldonha">
