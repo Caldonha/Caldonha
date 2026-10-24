@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111c33"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<style>
+.t{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:'Courier New',Consolas,monospace;font-weight:700}
+
+@keyframes wb0{0%,0.0%{width:0;animation-timing-function:steps(10,end)}2.179%,5.448%{width:132.0px;animation-timing-function:steps(10,end)}6.402%,100%{width:0}}
+@keyframes cb0{0%,0.0%{transform:translateX(0);opacity:0;animation-timing-function:steps(10,end)}0.001%{opacity:1}2.179%,5.448%{transform:translateX(132.0px);opacity:1;animation-timing-function:steps(10,end)}6.402%{transform:translateX(0);opacity:1}6.403%,100%{transform:translateX(0);opacity:0}}
+.wb0{animation:wb0 36.71s infinite}.cb0{animation:cb0 36.71s infinite}
+@keyframes wb1{0%,7.355%{width:0;animation-timing-function:steps(6,end)}8.662%,11.931%{width:79.2px;animation-timing-function:steps(6,end)}12.503%,100%{width:0}}
+@keyframes cb1{0%,7.355%{transform:translateX(0);opacity:0;animation-timing-function:steps(6,end)}7.356000000000001%{opacity:1}8.662%,11.931%{transform:translateX(79.2px);opacity:1;animation-timing-function:steps(6,end)}12.503%{transform:translateX(0);opacity:1}12.504%,100%{transform:translateX(0);opacity:0}}
+.wb1{animation:wb1 36.71s infinite}.cb1{animation:cb1 36.71s infinite}
+@keyframes wb2{0%,13.457%{width:0;animation-timing-function:steps(5,end)}14.546%,17.815%{width:66.0px;animation-timing-function:steps(5,end)}18.292%,100%{width:0}}
+@keyframes cb2{0%,13.457%{transform:translateX(0);opacity:0;animation-timing-function:steps(5,end)}13.458%{opacity:1}14.546%,17.815%{transform:translateX(66.0px);opacity:1;animation-timing-function:steps(5,end)}18.292%{transform:translateX(0);opacity:1}18.293%,100%{transform:translateX(0);opacity:0}}
+.wb2{animation:wb2 36.71s infinite}.cb2{animation:cb2 36.71s infinite}
+@keyframes wb3{0%,19.245%{width:0;animation-timing-function:steps(7,end)}20.771%,24.04%{width:92.4px;animation-timing-function:steps(7,end)}24.707%,100%{width:0}}
+@keyframes cb3{0%,19.245%{transform:translateX(0);opacity:0;animation-timing-function:steps(7,end)}19.246000000000002%{opacity:1}20.771%,24.04%{transform:translateX(92.4px);opacity:1;animation-timing-function:steps(7,end)}24.707%{transform:translateX(0);opacity:1}24.708%,100%{transform:translateX(0);opacity:0}}
+.wb3{animation:wb3 36.71s infinite}.cb3{animation:cb3 36.71s infinite}
+@keyframes wb4{0%,25.661%{width:0;animation-timing-function:steps(6,end)}26.968%,30.237%{width:79.2px;animation-timing-function:steps(6,end)}30.809%,100%{width:0}}
+@keyframes cb4{0%,25.661%{transform:translateX(0);opacity:0;animation-timing-function:steps(6,end)}25.662000000000003%{opacity:1}26.968%,30.237%{transform:translateX(79.2px);opacity:1;animation-timing-function:steps(6,end)}30.809%{transform:translateX(0);opacity:1}30.81%,100%{transform:translateX(0);opacity:0}}
+.wb4{animation:wb4 36.71s infinite}.cb4{animation:cb4 36.71s infinite}
+@keyframes wb5{0%,31.762%{width:0;animation-timing-function:steps(7,end)}33.288%,36.557%{width:92.4px;animation-timing-function:steps(7,end)}37.224%,100%{width:0}}
+@keyframes cb5{0%,31.762%{transform:translateX(0);opacity:0;animation-timing-function:steps(7,end)}31.763%{opacity:1}33.288%,36.557%{transform:translateX(92.4px);opacity:1;animation-timing-function:steps(7,end)}37.224%{transform:translateX(0);opacity:1}37.225%,100%{transform:translateX(0);opacity:0}}
+.wb5{animation:wb5 36.71s infinite}.cb5{animation:cb5 36.71s infinite}
+@keyframes wb6{0%,38.178%{width:0;animation-timing-function:steps(10,end)}40.357%,43.626%{width:132.0px;animation-timing-function:steps(10,end)}44.579%,100%{width:0}}
+@keyframes cb6{0%,38.178%{transform:translateX(0);opacity:0;animation-timing-function:steps(10,end)}38.178999999999995%{opacity:1}40.357%,43.626%{transform:translateX(132.0px);opacity:1;animation-timing-function:steps(10,end)}44.579%{transform:translateX(0);opacity:1}44.58%,100%{transform:translateX(0);opacity:0}}
+.wb6{animation:wb6 36.71s infinite}.cb6{animation:cb6 36.71s infinite}
+@keyframes wb7{0%,45.533%{width:0;animation-timing-function:steps(6,end)}46.84%,50.109%{width:79.2px;animation-timing-function:steps(6,end)}50.681%,100%{width:0}}
+@keyframes cb7{0%,45.533%{transform:translateX(0);opacity:0;animation-timing-function:steps(6,end)}45.534%{opacity:1}46.84%,50.109%{transform:translateX(79.2px);opacity:1;animation-timing-function:steps(6,end)}50.681%{transform:translateX(0);opacity:1}50.682%,100%{transform:translateX(0);opacity:0}}
+.wb7{animation:wb7 36.71s infinite}.cb7{animation:cb7 36.71s infinite}
+@keyframes wb8{0%,51.634%{width:0;animation-timing-function:steps(14,end)}54.685%,57.954%{width:184.8px;animation-timing-function:steps(14,end)}59.289%,100%{width:0}}
+@keyframes cb8{0%,51.634%{transform:translateX(0);opacity:0;animation-timing-function:steps(14,end)}51.635%{opacity:1}54.685%,57.954%{transform:translateX(184.8px);opacity:1;animation-timing-function:steps(14,end)}59.289%{transform:translateX(0);opacity:1}59.29%,100%{transform:translateX(0);opacity:0}}
+.wb8{animation:wb8 36.71s infinite}.cb8{animation:cb8 36.71s infinite}
+@keyframes wb9{0%,60.242%{width:0;animation-timing-function:steps(13,end)}63.075%,66.344%{width:171.6px;animation-timing-function:steps(13,end)}67.584%,100%{width:0}}
+@keyframes cb9{0%,60.242%{transform:translateX(0);opacity:0;animation-timing-function:steps(13,end)}60.242999999999995%{opacity:1}63.075%,66.344%{transform:translateX(171.6px);opacity:1;animation-timing-function:steps(13,end)}67.584%{transform:translateX(0);opacity:1}67.585%,100%{transform:translateX(0);opacity:0}}
+.wb9{animation:wb9 36.71s infinite}.cb9{animation:cb9 36.71s infinite}
+@keyframes wb10{0%,68.537%{width:0;animation-timing-function:steps(14,end)}71.588%,74.857%{width:184.8px;animation-timing-function:steps(14,end)}76.192%,100%{width:0}}
+@keyframes cb10{0%,68.537%{transform:translateX(0);opacity:0;animation-timing-function:steps(14,end)}68.53800000000001%{opacity:1}71.588%,74.857%{transform:translateX(184.8px);opacity:1;animation-timing-function:steps(14,end)}76.192%{transform:translateX(0);opacity:1}76.193%,100%{transform:translateX(0);opacity:0}}
+.wb10{animation:wb10 36.71s infinite}.cb10{animation:cb10 36.71s infinite}
+@keyframes wb11{0%,77.145%{width:0;animation-timing-function:steps(22,end)}81.94%,85.208%{width:290.4px;animation-timing-function:steps(22,end)}87.306%,100%{width:0}}
+@keyframes cb11{0%,77.145%{transform:translateX(0);opacity:0;animation-timing-function:steps(22,end)}77.146%{opacity:1}81.94%,85.208%{transform:translateX(290.4px);opacity:1;animation-timing-function:steps(22,end)}87.306%{transform:translateX(0);opacity:1}87.307%,100%{transform:translateX(0);opacity:0}}
+.wb11{animation:wb11 36.71s infinite}.cb11{animation:cb11 36.71s infinite}
+@keyframes wb12{0%,88.259%{width:0;animation-timing-function:steps(24,end)}93.49%,96.758%{width:316.8px;animation-timing-function:steps(24,end)}99.047%,100%{width:0}}
+@keyframes cb12{0%,88.259%{transform:translateX(0);opacity:0;animation-timing-function:steps(24,end)}88.26%{opacity:1}93.49%,96.758%{transform:translateX(316.8px);opacity:1;animation-timing-function:steps(24,end)}99.047%{transform:translateX(0);opacity:1}99.048%,100%{transform:translateX(0);opacity:0}}
+.wb12{animation:wb12 36.71s infinite}.cb12{animation:cb12 36.71s infinite}
+</style>
+</defs>
+<rect width="1000" height="230" rx="16" fill="url(#bg)" stroke="#30363d"/>
+<rect width="8" height="230" rx="4" fill="url(#bar)"/>
+<text x="56" y="100" class="t" font-size="60" font-weight="700" fill="#f0f6fc">Vitor Caldonha</text>
+<text x="58" y="148" class="m" font-size="28" fill="#58a6ff">Desenvolvedor Full Stack</text>
+<text x="58" y="190" class="m" font-size="20" fill="#8b949e">&gt;</text>
+<clipPath id="kb0"><rect class="wb0" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb0)">TypeScript</text><rect class="cb0" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb1"><rect class="wb1" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb1)">Python</text><rect class="cb1" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb2"><rect class="wb2" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb2)">React</text><rect class="cb2" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb3"><rect class="wb3" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb3)">Next.js</text><rect class="cb3" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb4"><rect class="wb4" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb4)">NestJS</text><rect class="cb4" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb5"><rect class="wb5" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb5)">FastAPI</text><rect class="cb5" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb6"><rect class="wb6" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb6)">PostgreSQL</text><rect class="cb6" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb7"><rect class="wb7" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb7)">Docker</text><rect class="cb7" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb8"><rect class="wb8" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb8)">IA &amp; Automação</text><rect class="cb8" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb9"><rect class="wb9" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb9)">Agentes de IA</text><rect class="cb9" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb10"><rect class="wb10" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb10)">Servidores MCP</text><rect class="cb10" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb11"><rect class="wb11" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb11)">Automação com WhatsApp</text><rect class="cb11" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<clipPath id="kb12"><rect class="wb12" x="84" y="168" height="31" width="0"/></clipPath><text x="84" y="190" class="m" font-size="22" fill="#67e8f9" clip-path="url(#kb12)">Claude Code no dia a dia</text><rect class="cb12" x="84" y="171" width="3" height="22" fill="#67e8f9" opacity="0"/>
+<text x="960" y="40" class="t" font-size="15" fill="#8b949e" text-anchor="end">Ribeirão Preto, SP</text>
+</svg>
