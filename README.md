@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Faculdade REGES**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **Faculdade REGES**
 - 📍 Ribeirão Preto, São Paulo
 - 🤖 Trabalho diariamente com **IA**: agentes com Claude e OpenAI, servidores **MCP** e automações com WhatsApp
 - 🏢 Desenvolvo sistemas profissionais: CRM e automação comercial, gestão clínica, painéis industriais e landing pages
