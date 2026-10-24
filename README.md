@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 💼 Desenvolvedor Full Stack na **Doublex** (remoto, desde 2025)
+- 💼 Desenvolvedor Full Stack
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **Faculdade REGES** (2023–2025)
 - 📍 Ribeirão Preto, São Paulo
 - 🤖 Trabalho diariamente com **IA**: agentes com Claude e OpenAI, servidores **MCP** e automações com WhatsApp
