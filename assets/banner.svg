@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#10204a"/>
+      <stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .t{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+      .code{font-family:'Fira Code',Consolas,monospace}
+      .l{opacity:0;animation:cycle 12s infinite}
+      .l1{animation-delay:0s}.l2{animation-delay:3s}.l3{animation-delay:6s}.l4{animation-delay:9s}
+      @keyframes cycle{0%{opacity:0;transform:translateY(6px)}4%,22%{opacity:1;transform:translateY(0)}27%,100%{opacity:0;transform:translateY(-6px)}}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="260" rx="18" fill="url(#grid)"/>
+  <rect width="1000" height="260" rx="18" fill="url(#glow)"/>
+  <g class="code" fill="#67e8f9" fill-opacity="0.22" font-size="15">
+    <text x="760" y="60">&lt;/&gt;</text>
+    <text x="820" y="110">{ ai }</text>
+    <text x="740" y="165">npm run dev</text>
+    <text x="850" y="215">mcp.serve()</text>
+  </g>
+  <text x="60" y="95" class="code" font-size="16" fill="#67e8f9">&gt; olá, eu sou</text>
+  <text x="60" y="160" class="t" font-size="68" font-weight="800" fill="url(#name)">Vitor Caldonha</text>
+  <g class="code" font-size="22" fill="#e2e8f0">
+    <text x="60" y="206" class="l l1">Full Stack · TypeScript · Python</text>
+    <text x="60" y="206" class="l l2">Agentes de IA com Claude e OpenAI</text>
+    <text x="60" y="206" class="l l3">Servidores MCP e automação com WhatsApp</text>
+    <text x="60" y="206" class="l l4">Next.js · React · NestJS · FastAPI</text>
+  </g>
+  <rect x="60" y="226" width="90" height="4" rx="2" fill="#22d3ee"/>
+  <text x="940" y="240" class="t" font-size="13" fill="#94a3b8" text-anchor="end">Ribeirão Preto · SP</text>
+</svg>

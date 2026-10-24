@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Vitor%20Caldonha&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20%7C%20Automa%C3%A7%C3%A3o%20%26%20IA%20%7C%20Ribeir%C3%A3o%20Preto%2C%20SP&descAlignY=58&descSize=18" alt="Banner" />
-
-<a href="https://github.com/Caldonha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Full+Stack+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+IA;Agentes+de+IA+com+Claude+e+OpenAI;Servidores+MCP+e+automa%C3%A7%C3%B5es+com+WhatsApp;Next.js+%C2%B7+React+%C2%B7+NestJS+%C2%B7+FastAPI;Sempre+aprendendo+e+construindo" alt="Typing SVG" />
-</a>
+<img src="assets/banner.svg" alt="Vitor Caldonha - Full Stack, IA e Automação" width="100%" />
 
 <br/>
 
@@ -117,6 +113,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=100&section=footer" alt="Rodapé" />
+<img src="assets/footer.svg" alt="Rodapé" width="100%" />
 
 </div>
