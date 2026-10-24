@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Vitor Caldonha - Full Stack, IA e Automação" width="100%" />
+<img src="assets/banner-v2.svg" alt="Vitor Caldonha - Full Stack, IA e Automação" width="100%" />
 
 <br/>
 
