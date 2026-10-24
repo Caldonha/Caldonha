@@ -14,10 +14,11 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **Faculdade REGES**
+- 💼 Desenvolvedor Full Stack na **Doublex** (remoto, desde 2025)
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **Faculdade REGES** (2023–2025)
 - 📍 Ribeirão Preto, São Paulo
 - 🤖 Trabalho diariamente com **IA**: agentes com Claude e OpenAI, servidores **MCP** e automações com WhatsApp
-- 🏢 Desenvolvo sistemas profissionais: CRM e automação comercial, gestão clínica, painéis industriais e landing pages
+- 🏢 Na Doublex desenvolvo sistemas profissionais: CRM e automação comercial, gestão clínica, painéis industriais e landing pages
 - 🌱 Estudando arquitetura de software, RAG e agentes autônomos
 - 📫 Vamos conversar? Me chame no LinkedIn
 
